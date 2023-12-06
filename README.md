@@ -12,7 +12,7 @@ Welcome to *Seal World*, where we dive into the fascinating lives of these aquat
 
 ## Introduction
 
-![Seal World](img/pexels-zlatin-georgiev-5607740_2160p.jpg)
+![Seal World](video/pexels-zlatin-georgiev-5607740_2160p.jpg)
 
 Get ready to Seal-abrate! Dive into the charm of these aquatic wonders.
 
