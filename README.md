@@ -1,8 +1,9 @@
 # Seal World
 
-Welcome to *Seal World*, where we dive into the fascinating lives of these aquatic wonders!
+Welcome to _Seal World_, where we dive into the fascinating lives of these aquatic wonders!
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Exploring the World of Seals](#exploring-the-world-of-seals)
 - [Style and Moves](#style-and-moves)
@@ -12,7 +13,7 @@ Welcome to *Seal World*, where we dive into the fascinating lives of these aquat
 
 ## Introduction
 
-![Seal World](video/pexels-zlatin-georgiev-5607740_2160p.jpg)
+![Seal World](video/pexels-zlatin-georgiev-5607740_2160p.mp4)
 
 Get ready to Seal-abrate! Dive into the charm of these aquatic wonders.
 
