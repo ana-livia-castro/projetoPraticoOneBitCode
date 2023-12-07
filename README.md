@@ -47,7 +47,7 @@ Meet the VIPs (Very Important Pinnipeds)! From the harbor seal to the fierce leo
 
 Dive into the world of seals, those charming sea creatures with a flair for the extraordinary. From holding their breath like underwater champs to using their whiskers for underwater GPS, these marine wonders are quite the showstoppers.
 
-For a deeper dive into seal awesomeness, visit [sealworld.com](#).
+For a deeper dive into seal awesomeness, visit [[sealworld.com](https://ana-livia-castro.github.io/projetopratico/)](#).
 
 ---
 
