@@ -13,37 +13,37 @@ Welcome to _Seal World_, where we dive into the fascinating lives of these aquat
 
 ## Introduction
 
-![Seal World](video/pexels-zlatin-georgiev-5607740_2160p.mp4)
+![Seal World](projetopratico/video/pexels-zlatin-georgiev-5607740_2160p.mp4)
 
 Get ready to Seal-abrate! Dive into the charm of these aquatic wonders.
 
 ## Exploring the World of Seals
 
-![Seals](img/pexels-minsu-b-11932453.jpg)
+![Seals](projetopratico/img/pexels-minsu-b-11932453.jpg)
 
 Hold onto your flippers as we embark on a journey into the lives of seals! These adorable aquatic mammals have mastered the art of enjoying life both above and below the waves. Let's splash into the deep waters of seal knowledge!
 
 ## Style and Moves
 
-![Swimming Seal](img/pexels-sabine-freiberger-16788877.jpg)
+![Swimming Seal](projetopratico/img/pexels-sabine-freiberger-16788877.jpg)
 
 Seals showcase elegant swimming skills, rivalling top-tier Olympic swimmers. Their streamlined bodies move with fluidity and grace, a testament to nature's adaptability. Their natural insulation, layers of blubber, allows them to thrive in various water temperatures.
 
 ## Seal Hangouts
 
-![Seal Hangout](img/pexels-diana-4445229.jpg)
+![Seal Hangout](projetopratico/img/pexels-diana-4445229.jpg)
 
 Discover where these fantastic creatures hang out – from icy polar plunge zones to sunny coastal chill spots. Seals love lounging on rocky shores, showing off their sun-kissed fur, and occasionally doing the cha-cha-slide into the water.
 
 ## Meet the Seal Crew
 
-![Seal Crew](img/harbor_seal.jpg) ![Seal Crew](img/grey_seal.jpg) ![Seal Crew](img/elephant_seal.jpg) ![Seal Crew](img/leopard_seal.jpg)
+![Seal Crew](projetopratico/img/harbor_seal.jpg) ![Seal Crew](projetopratico/img/grey_seal.jpg) ![Seal Crew](projetopratico/img/elephant_seal.jpg) ![Seal Crew](projetopratico/img/leopard_seal.jpg)
 
 Meet the VIPs (Very Important Pinnipeds)! From the harbor seal to the fierce leopard seal, each has its quirks and skills, making them the true icons of the underwater red carpet.
 
 ## Cool Facts About Seals
 
-![Seal Facts](img/pexels-daniel-lee-3187036.jpg)
+![Seal Facts](projetopratico/img/pexels-daniel-lee-3187036.jpg)
 
 Dive into the world of seals, those charming sea creatures with a flair for the extraordinary. From holding their breath like underwater champs to using their whiskers for underwater GPS, these marine wonders are quite the showstoppers.
 
