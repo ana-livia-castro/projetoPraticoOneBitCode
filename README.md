@@ -13,7 +13,7 @@ Welcome to _Seal World_, where we dive into the fascinating lives of these aquat
 
 ## Introduction
 
-!(img/getready.jpg)
+![Seals](img/getready.jpg)
 
 Get ready to Seal-abrate! Dive into the charm of these aquatic wonders.
 
