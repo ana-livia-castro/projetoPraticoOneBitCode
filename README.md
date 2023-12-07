@@ -13,7 +13,7 @@ Welcome to _Seal World_, where we dive into the fascinating lives of these aquat
 
 ## Introduction
 
-![Seal World](projetopratico/video/pexels-zlatin-georgiev-5607740_2160p.mp4)
+![Seal World](projetopratico/img/getready.png)
 
 Get ready to Seal-abrate! Dive into the charm of these aquatic wonders.
 
