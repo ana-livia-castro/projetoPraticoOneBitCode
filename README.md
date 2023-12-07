@@ -52,3 +52,4 @@ For a deeper dive into seal awesomeness, visit [sealworld.com](#).
 ---
 
 Made with ❤ by [@ana-livia-castro](https://github.com/ana-livia-castro)
+Developed with a OneBitCode course!
