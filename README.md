@@ -19,7 +19,7 @@ Get ready to Seal-abrate! Dive into the charm of these aquatic wonders.
 
 ## Exploring the World of Seals
 
-![Seals](img/pexels-minsu-b-11932453.jpg)
+![Seals](projetopratico/img/pexels-minsu-b-11932453.jpg)
 
 Hold onto your flippers as we embark on a journey into the lives of seals! These adorable aquatic mammals have mastered the art of enjoying life both above and below the waves. Let's splash into the deep waters of seal knowledge!
 
